@@ -9,9 +9,9 @@ SpeedHack Team
 *   **3.** Paste this code
 ```js
 // ==UserScript==
-// @name         SpeedHack Team
+// @name         Angeles
 // @version      0.3
-// @description  SpeedHack Team
+// @description  Welcome my friend
 // @author       Angeles
 // @match        https://*.tankionline.com/*
 // @icon         https://i.pinimg.com/originals/5e/50/d6/5e50d6944fb75490ad6f0133e2de38b9.jpg
